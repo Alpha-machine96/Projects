@@ -2,13 +2,15 @@
 🎯 **Project Overview**
 
 This project analyzes Zomato restaurant data to understand dining patterns, service preferences, and pricing trends. The analysis focuses on extracting actionable insights about online vs offline services, restaurant type preferences, and couple dining price ranges.
-Business Impact: These insights can help restaurant owners optimize their service offerings and pricing strategies to better serve their target customers.
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Business Impact:** These insights can help restaurant owners optimize their service offerings and pricing strategies to better serve their target customers.
 _____________________________________________________________________________________________________________________________________________________________ 
 
 📊 **Dataset**
 
 Source: Zomato Restaurant Dataset
-Size: 150+ restaurants
+Size: 148 rows, 7 columns
 
 **Features:**
 
